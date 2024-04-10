@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:#92C7CF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Bungee Spice', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #E72929;
+}
+
+p {
+  font-size: 2rem;
+  color: #E72929;
+  font-family: 'Bungee Spice', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color:#135D66;
+  text-align: center;
+  font-family: 'Bungee Spice', cursive;
+}
+.bungee-spice-regular {
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 40;
+  font-style: normal;
+}
+
